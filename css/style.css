@@ -51,7 +51,7 @@ font-weight: 300;
     letter-spacing: 0.4px;
     font-family: "Open Sans", Sans-serif;
    /*Headings Color*/
-	color: #C2FFBA;
+	color: #476B3B;
 }
 
 p {
@@ -61,7 +61,7 @@ p {
 	line-height: 23px;
     letter-spacing: 0.2px;
 	/*Paragraph Text Color*/
-    color: #D7DE99;
+    color: #607541;
 }
 
 a:hover, a:focus, a:active, a.active {
@@ -710,8 +710,8 @@ font-size: 11px;
 /*Button Color*/
 .btn-xl {
     color: #fff;
-     background-color: #C2FFBA;
-    border-color:#C2FFBA;
+     background-color: #476B3B;
+    border-color:#476B3B;
     font-family: "Robot",sans-serif;
     text-transform: uppercase;
     font-weight: 700;
