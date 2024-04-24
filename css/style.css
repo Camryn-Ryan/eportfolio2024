@@ -61,7 +61,7 @@ p {
 	line-height: 23px;
     letter-spacing: 0.2px;
 	/*Paragraph Text Color*/
-    color: #483B59;
+    color: #D7DE99;
 }
 
 a:hover, a:focus, a:active, a.active {
@@ -74,7 +74,7 @@ a, a:hover, a:focus, a:active, a.active {
 
 ::selection {
     text-shadow: none;
-    background: #fed136;
+    background: #F5E8B5;
 }
 
 @media (min-width: 768px) {
