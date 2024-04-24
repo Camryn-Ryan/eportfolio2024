@@ -114,7 +114,7 @@ section {
 	background-color: #fff
 }
 .navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus {
-	background-color: #fed136
+	background-color: #DEC099
 }
 .navbar-default .nav li a {
 	font-family: "Roboto",sans-serif;
@@ -124,7 +124,7 @@ section {
 	color:#fff
 }
 .navbar-default .nav li a:hover,.navbar-default .nav li a:focus {
-	color: #DAFDBA;
+	color: #DEC099;
 	outline: 0
 }
 
@@ -255,7 +255,7 @@ header .intro-text .intro-heading {
     font-weight: 500;
     font-size: 17px;
     text-transform: uppercase;
-    color: #121D40;
+    color: #F5E8B5;
     letter-spacing: 2px;
     margin-bottom: 20px;
 }
@@ -265,7 +265,7 @@ header .intro-text .intro-heading {
 font-size: 14px;
     font-weight: 300;
     line-height: 22px;
-    color: #483B59;
+    color: #DEC099;
 }
 
 .ot-circle {
@@ -273,10 +273,10 @@ height: 95px;
     width: 95px;
     text-align: center;
     line-height: 98px;
-    color: #3E3E3E;
+    color: #F5E8B5;
     /* border: 3px solid #000; */
     border-radius: 100px;
-    /* background-color: #E8E8E8; */
+    /* background-color: #DEC099; */
     margin: 0 2px 4px;
     font-size: 31px;
 }
@@ -464,7 +464,7 @@ figure.effect-bubba:hover p {
 --------------------*/
 /*Dark Background Color*/
 .dark-bg {
-    background: #7CB2DE;
+    background: #DEC099;
     /*color: #fff;*/
 }
 
@@ -477,7 +477,7 @@ figure.effect-bubba:hover p {
 }
 /*Light Background Color*/
 .light-bg {
-	background-color: #F2D0D0;
+	background-color: #F5E8B5;
 }
 
 .overlay-dark:before, .overlay-light:before {
@@ -710,8 +710,8 @@ font-size: 11px;
 /*Button Color*/
 .btn-xl {
     color: #fff;
-     background-color: #6F5173;
-    border-color: #6F5173;
+     background-color: #C2FFBA;
+    border-color:#C2FFBA;
     font-family: "Robot",sans-serif;
     text-transform: uppercase;
     font-weight: 700;
